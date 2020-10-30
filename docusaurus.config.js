@@ -59,16 +59,16 @@ module.exports = {
           editUrl:
             'https://github.com/jsjsjsjsjsjsjsjs/simplx-policy/edit/master/',
           },
-          policy: {
-            id: 'policy',
-            path: 'policy',
-            sidebarPath: require.resolve('./sidebarsPolicy.js'),
-            routeBasePath: 'policy',
-            showLastUpdateAuthor: true,
-            showLastUpdateTime: true,
-            // Please change this to your repo.
-            editUrl:
-              'https://github.com/jsjsjsjsjsjsjsjs/simplx-policy/edit/master/',
+        policy: {
+          id: 'policy',
+          path: 'policy',
+          sidebarPath: require.resolve('./sidebarsPolicy.js'),
+          routeBasePath: 'policy',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
+          // Please change this to your repo.
+          editUrl:
+            'https://github.com/jsjsjsjsjsjsjsjs/simplx-policy/edit/master/',
         },
         blog: {
           showReadingTime: true,
