@@ -1,9 +1,4 @@
 module.exports = {
-<<<<<<< Updated upstream
-  someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
-=======
   Docs: {
     Welcome: ['welcome'],
     Billing: ['cancel-account'],
@@ -13,6 +8,5 @@ module.exports = {
 
   Policy: {
     Policy: ['acceptable-use'],
->>>>>>> Stashed changes
   },
 };
