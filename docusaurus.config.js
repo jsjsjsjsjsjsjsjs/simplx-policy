@@ -21,7 +21,7 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs/acceptable-use',
+          to: 'policy/acceptable-use',
           activeBasePath: 'policy',
           label: 'Policy',
           position: 'left',
