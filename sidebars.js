@@ -5,8 +5,4 @@ module.exports = {
     Features: ['uptime-monitor'],
     Support: ['my-site-is-down', 'my-site-is-slow'],
   },
-
-  Docs: {
-    Policy: ['acceptable-use'],
-  },
 };
