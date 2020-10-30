@@ -1,17 +1,9 @@
-# Docusaurus Example
+![Simplx](https://simplx-docs.vercel.app/img/logo.svg)
 
-This directory is a brief example of a [Docusaurus](https://v2.docusaurus.io) site that can be deployed with Vercel and zero configuration.
+# Simplx Docs
 
-## Deploy Your Own
+![GitHub](https://img.shields.io/github/license/jsjsjsjsjsjsjsjs/simplx-policy?style=for-the-badge) ![GitHub issues](https://img.shields.io/github/issues/jsjsjsjsjsjsjsjs/simplx-policy?style=for-the-badge)
 
-Deploy your own Docusaurus project with Vercel.
+Hosted by Vercel, powered by Docusaurus
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/docusaurus-2)
-
-### How We Created This Example
-
-To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website) to initialize the project:
-
-```shell
-$ npx @docusaurus/init@next init my-website classic
-```
+Contact our [help desk](https://jsjsjs.atlassian.net/servicedesk/customer/portals)
