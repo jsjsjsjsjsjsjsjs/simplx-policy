@@ -31,49 +31,7 @@ module.exports = {
     footer: {
       style: 'light',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/doc1',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
+        
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Jessica Sutherland Design Hosted Technologies Group. Built with Docusaurus.`,
     },
@@ -86,13 +44,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/jsjsjsjsjsjsjsjs/simplx-policy/edit/master/website/',
+            'https://github.com/jsjsjsjsjsjsjsjs/simplx-policy/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/jsjsjsjsjsjsjsjs/simplx-policy/edit/master/website/blog/',
+            'https://github.com/jsjsjsjsjsjsjsjs/simplx-policy/edit/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
