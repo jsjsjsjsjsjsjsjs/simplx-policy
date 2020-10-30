@@ -20,6 +20,17 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
+        {
+          to: 'policy/acceptable-use',
+          activeBasePath: 'policy',
+          label: 'Policy',
+          position: 'left',
+        },
+        {
+          to: 'https://jsjsjs.atlassian.net/servicedesk/customer/portals',
+          label: 'Service desk',
+          position: 'left',
+        },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/jsjsjsjsjsjsjsjs/simplx-policy',
