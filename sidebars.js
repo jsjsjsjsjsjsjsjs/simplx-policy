@@ -1,8 +1,8 @@
 module.exports = {
   someSidebar: {
-    Billing: ['doc1', 'doc2', 'doc3'],
+    Billing: ['cancel-account'],
     Features: ['uptime-monitor'],
     Support: ['my-site-is-down', 'my-site-is-slow'],
-    Policy: ['mdx'],
+    Policy: ['acceptable-use'],
   },
 };
