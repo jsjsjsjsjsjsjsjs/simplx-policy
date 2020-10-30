@@ -6,7 +6,7 @@ module.exports = {
     Support: ['my-site-is-down', 'my-site-is-slow'],
   },
 
-  Policy: {
+  Docs: {
     Policy: ['acceptable-use'],
   },
 };
