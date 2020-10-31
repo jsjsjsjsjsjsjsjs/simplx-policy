@@ -10,7 +10,7 @@ To see if a site loading problem is a system-wide issue, check our [status page.
 
 ## Check Google Cloud status
 
-Simplx uses Google Cloud for hosting. Although their status is integrated into our status page, please check the [Google Cloud status page.](https://status.cloud.google.com/)
+Simplx uses Google Cloud for hosting. APlease check the [Google Cloud status page.](https://status.cloud.google.com/)
 
 ## Check your local connection
 
@@ -30,16 +30,19 @@ A variety of other factors can affect your site's load time. This includes:
 - Issues with third-party domain providers
 - Weather, cable faults, construction, network maintenance or other physical events
 
-Try temporarily disabling any browser extensions, clearing your cache anti-virus software, and external scripts that may be impacting your site.
+Try temporarily disabling any browser extensions, clearing your cache, disabling anti-virus software, and external scripts that may be impacting your site.
 
 ## Use an up to date browser and operating system
 
-- [Chrome](http://www.google.com/chrome/) - PC, Mac, and Linux
-- [Firefox](https://www.mozilla.org/firefox/new/) - PC, Mac, and Linux
-- [Safari](http://www.apple.com/safari/) - Mac only
-- [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) - PC only
+- [Chrome](http://www.google.com/chrome/) - Android, iOS, PC, Mac, and Linux
+- [Firefox](https://www.mozilla.org/firefox/new/) - Android, iOS, PC, Mac, and Linux
+- [Safari](http://www.apple.com/safari/) - iOS and Mac
+- [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) - PC and Mac
+
+:::caution
 
 We do not support Microsoft Internet Explorer. It is depreciated and should not be used.
+
 
 ## Get in touch with us
 
