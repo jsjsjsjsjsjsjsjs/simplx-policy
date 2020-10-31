@@ -10,7 +10,7 @@ To see if a site loading problem is a system-wide issue, check our [status page.
 
 ## Check Google Cloud status
 
-Simplx uses Google Cloud for hosting. APlease check the [Google Cloud status page.](https://status.cloud.google.com/)
+Simplx uses Google Cloud for hosting. Please check the [Google Cloud status page.](https://status.cloud.google.com/)
 
 ## Check your local connection
 
@@ -60,6 +60,7 @@ Try temporarily disabling any browser extensions, clearing your cache, disabling
 
 We do not support Microsoft Internet Explorer. It is depreciated and should not be used.
 
+:::
 
 ## Get in touch with us
 
