@@ -5,7 +5,10 @@ sidebar_label: Downstream providers and business partners
 ---
 
 ## Maintaing good business partnerships with our down-stream providers
-Bandwidth in Australia is significantly more expensive when compared to the USA, but by maintaining good business relations with like-minded providers we can pass on savings to our customers.
+Bandwidth in Australia is significantly more expensive when compared to the rest of the world, but by maintaining good business relations with like-minded providers we can pass on savings to our customers.
+
+Acording to Cloudflare, Australia/Oceania is the most expensive bandwidth in the world, costing 17x the benchmark in Europe. Optus and Telstra are two of the most expensive transit providers on Earth.
+![Global cost of bandwidth](https://blog.cloudflare.com/content/images/2016/08/CloudFlare_Relative_Cost_of_Bandwidth.png)
 
 ## Sustainability
 We vet our providers and their subprocessors for climate responsibility when making business decisions or carrying out tender processes. Our current connections make Simplx a sustainable and environmentally-friendly network for all our customers, so they can have confidence their websites aren't diminishing from our Earth.
