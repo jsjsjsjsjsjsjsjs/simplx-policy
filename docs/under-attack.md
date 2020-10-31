@@ -10,16 +10,15 @@ You can learn more about DDoS from the [Australia Cyber Security Centre.](https:
 ## How prepared is your businesss?
 From the Australian Cyber Security Centre:
 
-*Organisations should ask themselves the following questions to determine how prepared they are to respond to cyber security incidents:*
-
-- *Have we identified systems and information critical to our business operations?*
-- *Do we have business continuity and disaster recovery plans?*
-- *Do we have an up‐to‐date and regularly tested incident response plan?*
-- *Do our agreements with service providers include cyber security incident reporting and response activities?*
-- *Do we have the ability to detect when cyber security incidents may have occurred?*
-- *How easily and quickly can we access appropriate resources to respond to cyber security incidents?*
-- *What are our legislative obligations in regards to reporting cyber security incidents?*
-- *Who has the primary responsibility for cyber security incident reporting, and do we have standard operating procedures in place?*
+> Organisations should ask themselves the following questions to determine how prepared they are to respond to cyber security incidents:
+- Have we identified systems and information critical to our business operations?
+- Do we have business continuity and disaster recovery plans?
+- Do we have an up‐to‐date and regularly tested incident response plan?
+- Do our agreements with service providers include cyber security incident reporting and response activities?
+- Do we have the ability to detect when cyber security incidents may have occurred?
+- How easily and quickly can we access appropriate resources to respond to cyber security incidents?
+- What are our legislative obligations in regards to reporting cyber security incidents?
+- Who has the primary responsibility for cyber security incident reporting, and do we have standard operating procedures in place?
 
 ## How Simplx fights cyber crime and protects your business
 
@@ -43,6 +42,6 @@ Please note that DDOS ransom attacks usually don't mean the malicious entities h
 
 :::
 
-## **Legal implications**
+## Legal implications
 
 Simplx does not guarantee the security of your web server, and uptime SLAs do not apply to DDOS attacks.
