@@ -21,7 +21,7 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'policy/policy-centre',
+          to: 'docs/policy-centre',
           activeBasePath: 'policy',
           label: 'Policy',
           position: 'left',
@@ -53,14 +53,6 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          showLastUpdateAuthor: true,
-          showLastUpdateTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/jsjsjsjsjsjsjsjs/simplx-policy/edit/master/',
-          },
-        policy: {
-          sidebarPath: require.resolve('./sidebarsPolicy.js'),
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           // Please change this to your repo.
