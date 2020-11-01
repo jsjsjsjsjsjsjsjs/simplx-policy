@@ -12,7 +12,7 @@ We will issue an account credit to your Simplx plan if the website availability 
 ### For Alpha, Bravo & Charlie Plans (2.0.0)
  Website avaliability        | Monthly downtime      | Credit Percentage |
 | ------------- | :-----------: | -----: |
-| 100% - 99.9%      | Up to 44 minutes | 0% |
+| 100% to 99.9%      | Up to 44 minutes | 0% |
 | 99.9% to 98%      |   Between 44 minutes and 14 hours 52 minutes    |   15% |
 | 98% to 95% |   Between 14 hours 53 minutes and 37 hours 12 minutes    |    30% |
 | 95% to 90% | Between 37 hours 13 minutes and 74 hours 24 minutes    |    65% |
