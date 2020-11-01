@@ -18,8 +18,7 @@ We will issue an account credit to your Simplx plan if the website availability 
 | 95% to 90% | Between 37 hours 13 minutes and 74 hours 24 minutes    |    65% |
 | Less than 90% | More than 74 hours 25 minutes    |    100% |
 
-The credit ammount will be calcuated on the monthly Service fee, minus any discounts, addons or licenses which have been applied.
-The SLA does not apply to Google Workspace or other addons.
+The credit amount will be calcuated on the monthly Service fee, minus any discounts, addons or licenses which have been applied.
 
 ## Exceptions
 Customers are not entitled to a remedy under this SLA if website availability is reduced or impaired due to any of the following exceptions in this agreement.
@@ -27,10 +26,10 @@ Customers are not entitled to a remedy under this SLA if website availability is
 - The SLA does not apply to Google Workspace or other addons.
 - Circumstances beyond our reasonable control, including but not limited to, acts of government, war, insurrection, sabotage, armed conflict, fire, flood, strike/labor action, delays in transportation, delays in partner telecommunications networks, failure of third party software, and Denial of Service attacks.
 - Scheduled maintenance or upgrades, including in emergencies.
-- DNS propogation outside of our direct control
+- DNS propogation outside of our direct control.
 - Issues with FTP, SSH, POP3, IMAP and SMTP.
 - SLA breaches reported by third-party monitoring services belonging to the customer.
-- Excessive resource consumption
+- Excessive resource consumption.
 - Outages elsewhere on the internet, DNS caching, browser caching, or any other reason that hinders access to the service while others can still access it.
 
 ## Maintenance
