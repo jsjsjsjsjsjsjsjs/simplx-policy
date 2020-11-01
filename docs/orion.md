@@ -4,14 +4,14 @@ title: Getting started with DSCM
 sidebar_label: Getting started with DSCM
 ---
 
-DSCM
-
 ## What is DSCM?
-Digital Service Content Management (DSCM) is a custom Simplx tool that you can use to edit your website and digital services.
-Service Management, Inventory and Content Management System (SMICMS) is a custom Simplx tool that you can use to edit your website and digital services.
+Digital Service Content Management (DSCM) is a custom Simplx tool that you can use to edit your website and digital services. 
+
+### Previous names
+1.0.0 Simplx plans previously used the legacy Service Management, Inventory and Content Management System (SMICMS) to manage their website. This portal has now been retired.
 
 
-## Log into SMICMS
+## Log into DSCM
 First, log in to your website’s dashboard by visiting yourwebsite.com **/auth-portal**.
 
 :::warning
