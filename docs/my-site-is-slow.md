@@ -49,7 +49,7 @@ Try temporarily disabling any browser extensions, clearing your cache, disabling
 - The quality of the infrastructure
 - Peak and Off-peak periods
 
-# Use an up to date browser and operating system
+## Use an up to date browser and operating system
 
 - [Chrome](http://www.google.com/chrome/) - Android, iOS, PC, Mac, and Linux
 - [Firefox](https://www.mozilla.org/firefox/new/) - Android, iOS, PC, Mac, and Linux
