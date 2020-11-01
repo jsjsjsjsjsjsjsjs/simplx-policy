@@ -32,6 +32,8 @@ VentraIP is a shared hosting and reseller hosting provider based in Melbourne wi
 
 Simplx believes VentraIP are strong leaders in the Australian IT industry and endorse their philosophy of hardware being the most valuable asset in a digital business.
 
+[Learn more about the VentraIP tech stack](https://ventraip.com.au/blog/products-and-services/ventraip-australia-server-hardware/)
+
 **Web Hosting Partners**
 - cPanel
 - Installtron

@@ -7,12 +7,12 @@ sidebar_label: Content delivery network (CDN)
 ## What is a CDN and how does it work?
 Content delivery networks (CDNs) reduce the physical distance between your users and your server. Cached copies are made of your website and stored at points-of-presence (PoPS) around the world.
 
-When a user browses your website, their content will be served from the POP closest to them, which means loading times remain consistently fast across the globe for everyone.
+When a user browses your website, their content will be served from the PoP closest to them, which means loading times remain consistently fast across the globe for everyone.
 
 ## How can a CDN make my website faster and more secure?
 CDNs can also increase your website’s security and uptime.
 
-If there is an outage at a PoP, traffic is simply re-routed instantly. This makes it incredibly difficult to take your website offline Web application firewalls and DDOS protection also thwart cyber threats targeting your business.
+If there is an outage at a PoP, traffic is simply re-routed instantly. This makes it incredibly difficult to take your website offline. Web application firewalls and DDOS protection also thwart cyber threats targeting your business.
 
 ## Which CDN do we use?
 Included in our (V2.0.0) Bravo and Charlie plans is a CDN powered by leading provider Fastly.
