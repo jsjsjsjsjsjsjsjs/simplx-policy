@@ -44,6 +44,7 @@ If your business is targeted by DDOS ransom cyber crime, **there is no need to p
 
 Please note that DDOS ransom attacks usually don't mean the malicious entities have compromised your website, and there is no reason to believe data has been hacked unless intrusion is detected.
 
+:::
 
 ## **Our approach to intrusion cyber crime**
 
