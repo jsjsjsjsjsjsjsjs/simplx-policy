@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Learn more about editing your website</>,
-    imageUrl: 'undraw_dropdown_menu_vv9j.png',
+    imageUrl: 'img/undraw_dropdown_menu_vv9j.png',
     description: (
       <>
         Simplx docs include guides on editing your website's content and styles, as well as publishing new blog posts.
@@ -27,7 +27,7 @@ const features = [
   },
   {
     title: <>Navigate your data</>,
-    imageUrl: 'undraw_design_stats_ne2k.png',
+    imageUrl: 'img/undraw_design_stats_ne2k.png',
     description: (
       <>
         Learn more about accessing data from your website, and investigate your website's analytics.
