@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <>Learn more about editing your website</>,
+    imageUrl: 'undraw_dropdown_menu_vv9j.png',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Simplx docs include guides on editing your website's content and styles, as well as publishing new blog posts.
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: <>Discover your Simplx plan</>,
+    imageUrl: 'img/undraw_web_browsing_p77h.png',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        All Simplx policies, tools and docs are here in the one place for you to access.
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: <>Navigate your data</>,
+    imageUrl: 'undraw_design_stats_ne2k.png',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Learn more about accessing data from your website, and investigate your website's analytics.
       </>
     ),
   },
