@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Learn more about editing your website</>,
+    title: <>Eedit your website</>,
     imageUrl: 'img/undraw_dropdown_menu_vv9j.png',
     description: (
       <>
